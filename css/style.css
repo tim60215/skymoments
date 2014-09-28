@@ -85,6 +85,7 @@ a:visited {
 #slide1{
 	background-image:url('../images/Wedding_2.jpg');
 	background-color:#ffffff;
+	background-repeat: no-repeat;
 }
 #slide1 h1 {
 	font-size: 3.8em;
@@ -167,6 +168,7 @@ a:visited {
 	background-image:url('../images/maxresdefault.jpg');
 	background-color:#8a8683;
 	color:#ffffff;
+	background-repeat: no-repeat;
 }
 #slide4 h1 {
 	font-size: 3.8em;
